@@ -2,7 +2,7 @@
 - Expose github.actor_id, github.workflow_ref & github.workflow_sha as environment variable (#2249)
 - Added worker and listener logs to stdout (#2291, #2307)
 
-## Bugs
+## Bugss
 - Made github.action_status output lowercase to be consistent with job.status' output (#1944)
 
 ## Misc
